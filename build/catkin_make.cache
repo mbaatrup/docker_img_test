@@ -1,2 +1,0 @@
-dkr_img_tst
--DCATKIN_DEVEL_PREFIX=/home/mvb/Projects/dkr_img_tst/devel -DCMAKE_INSTALL_PREFIX=/home/mvb/Projects/dkr_img_tst/install -G Unix Makefiles

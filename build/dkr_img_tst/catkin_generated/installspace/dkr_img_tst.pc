@@ -1,8 +1,0 @@
-prefix=/home/mvb/Projects/dkr_img_tst/install
-
-Name: dkr_img_tst
-Description: Description of dkr_img_tst
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/mvb/Projects/dkr_img_tst/install/lib 
-Requires: 
